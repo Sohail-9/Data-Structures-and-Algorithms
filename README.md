@@ -1,1 +1,1 @@
-this repo is for my consistency in learning of Data structures and algorithms
+this repo is created for my consistency in learning of Data structures and algorithms
