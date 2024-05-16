@@ -1,1 +1,1 @@
-Competative Programming for ICPC
+Competative Programming for ICPC Competition
